@@ -115,6 +115,7 @@ def generate_html_report(data):
     <!DOCTYPE html>
     <html>
     <head>
+        <meta charset="UTF-8">
         <title>板块追踪报告（修复版）</title>
         <style>
             body {{ font-family: Arial, sans-serif; margin: 20px; }}
